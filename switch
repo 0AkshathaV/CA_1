@@ -12,5 +12,6 @@ switch()
 	      break;
        case 4:
               printf("btech in mec")
+	      printf("mechanical")
 	      break;
 
