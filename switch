@@ -6,6 +6,7 @@ switch()
 	       break;
 	case 2:
 	       printf("btech in aiml")
+	       printf("artificial intelligence")
 	       break;
        case 3:
               printf("btech in ece")
