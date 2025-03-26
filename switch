@@ -3,6 +3,7 @@ void main(){
 switch()
         case 1:
 	       printf("btech in cse")
+	       printf("coumputer sicence")
 	       break;
 	case 2:
 	       printf("btech in aiml")
