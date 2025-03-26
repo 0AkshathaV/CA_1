@@ -9,6 +9,7 @@ switch()
 	       break;
        case 3:
               printf("btech in ece")
+	      printf("electronincs")
 	      break;
        case 4:
               printf("btech in mec")
