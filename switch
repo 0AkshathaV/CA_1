@@ -4,3 +4,7 @@ switch()
         case 1:
 	       printf("btech in cse")
 	       break;
+	case 2:
+	       printf("aiml")
+	       break;
+	
