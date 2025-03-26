@@ -5,6 +5,9 @@ switch()
 	       printf("btech in cse")
 	       break;
 	case 2:
-	       printf("aiml")
+	       printf("btech in aiml")
 	       break;
-	
+       case 3:
+              printf("btech in ece"
+	      break;
+	      )
