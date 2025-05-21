@@ -13,6 +13,8 @@ switch()
        case 4:
               printf("btech in mec")
 	      break;
-      case 5:
+
+       case 5:
             printf("btech in mech")
 	    break;
+	
